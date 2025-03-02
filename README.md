@@ -1,6 +1,6 @@
 # 🚀 100 SQL, Pandas & PySpark Challenges  
 
-![SQL-Pandas-PySpark](https://img.shields.io/badge/SQL-Pandas-PySpark-blue.svg)  
+![SQL-Pandas-PySpark](https://img.shields.io/badge/SQL-Pandas-PySpark-blue)  
 ![100 Days of SQL](https://img.shields.io/badge/100DaysOfSQL-Challenge-orange)  
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-green)  
 
